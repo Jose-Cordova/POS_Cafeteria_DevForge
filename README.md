@@ -1,1 +1,1 @@
-El objetivo de este repositorio es ir doucmentando las practicas que baya haceindo a lo largo de el modulo.
+El objetivo de este repositorio es ir documentando las practicas que baya haceindo a lo largo de el modulo.
