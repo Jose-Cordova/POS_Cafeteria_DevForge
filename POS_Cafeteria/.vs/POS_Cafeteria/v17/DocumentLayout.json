@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose6\\Documents\\POS_Cafeteria_DevForge\\POS_Cafeteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5935AA96-509A-404E-9FA3-0626B430FD3C}|POS_Cafeteria\\POS_Cafeteria.csproj|c:\\users\\jose6\\documents\\pos_cafeteria_devforge\\pos_cafeteria\\pos_cafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5935AA96-509A-404E-9FA3-0626B430FD3C}|POS_Cafeteria\\POS_Cafeteria.csproj|solutionrelative:pos_cafeteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jose6\\Documents\\POS_Cafeteria_DevForge\\POS_Cafeteria\\POS_Cafeteria\\Form1.cs",
+              "RelativeDocumentMoniker": "POS_Cafeteria\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose6\\Documents\\POS_Cafeteria_DevForge\\POS_Cafeteria\\POS_Cafeteria\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POS_Cafeteria\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:19:23.579Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
